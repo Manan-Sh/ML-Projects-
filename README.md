@@ -1,0 +1,1 @@
+* **linear_regression_and_randomForest.ipynb** is basically a mini ML project that i did which took data, divided it into training and testing sets and got the predictions. We then used models such as linear regression and random forest and also did model evaluation and made the table with all the accuracies. 
